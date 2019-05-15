@@ -24,7 +24,7 @@ fxhash = "0.2"
 grpcio = { version = "0.4", features = [ "secure" ] }
 lazy_static = "0.2.1"
 log = "0.3.9"
-protobuf = "~2.0"
+protobuf = "~2.1"
 serde = "1.0"
 serde_derive = "1.0"
 tokio-core = "0.1"
